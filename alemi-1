@@ -1,0 +1,4 @@
+from sys import argv
+x = float(argv[1])
+y = float(argv[2])
+print(x+y)
